@@ -9,3 +9,5 @@ dependencies:
     - quippy-ase==0.9.14
     - git+https://github.com/imagdau/aseMolec.git@038b00d4a46f366ede348510a52bc5ede8ba8bbb
     - nglview==3.1.2
+    - pandas==2.2.1
+    - plotly==5.20.0
