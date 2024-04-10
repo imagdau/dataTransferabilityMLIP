@@ -7,7 +7,7 @@ dependencies:
   - pip:
     - matplotlib==3.8.3
     - quippy-ase==0.9.14
-    - git+https://github.com/imagdau/aseMolec.git@038b00d4a46f366ede348510a52bc5ede8ba8bbb
+    - git+https://github.com/imagdau/aseMolec.git@5aba8306655a4a028f5b1c977a2e6f48236c0c03
     - nglview==3.1.2
     - pandas==2.2.1
     - plotly==5.20.0
